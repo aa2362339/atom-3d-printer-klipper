@@ -16,7 +16,7 @@ https://www.raspberrypi.com/software/
 
 ![image](https://github.com/aa2362339/atom2.0-3d-printer/blob/main/PI-IMAGE.jpg)
 
-##不驟二
+##步驟二
 開啟raspberry pi登入帳號密碼沒有修改的話是 帳號 pi  密碼 raspberry
 
 
