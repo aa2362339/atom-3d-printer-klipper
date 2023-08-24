@@ -73,4 +73,4 @@ https://www.klipper3d.org/zh-Hant/Config_Reference.html
 我改成以下設定
 ![image](https://github.com/aa2362339/atom2.0-3d-printer/blob/main/CURA_SET.jpg)
 
-有那裡寫錯提醒我一下
+文章未完成 有那裡寫錯提醒我一下
