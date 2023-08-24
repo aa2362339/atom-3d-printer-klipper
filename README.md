@@ -1,2 +1,2 @@
 # atom2.0-3d-printer
-![image](picture or gif url)
+![image](https://github.com/aa2362339/atom2.0-3d-printer/blob/main/xloder.jpg)https://github.com/aa2362339/atom2.0-3d-printer/blob/main/xloder.jpg)
