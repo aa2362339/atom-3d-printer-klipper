@@ -48,6 +48,7 @@ https://www.klipper3d.org/zh-Hant/Installation.html
 
 刷寫微控制器 klipper 韌體
 我是使xloader 我是使用mks gen l v2.1 應該與原廠板子使用的韌體相同(待確認)
+我怕用壞原廠主板 所以買塊二手代替 這主板V2 版本12V風扇接腳有點少
 ![image](https://github.com/aa2362339/atom2.0-3d-printer/blob/main/xloder.jpg)
 
 
