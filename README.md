@@ -11,4 +11,7 @@
 
 #選單other specific-purpose os>>3d printing>>octoklipperpi
 
+![image]([https://github.com/aa2362339/atom2.0-3d-printer/blob/main/xloder.jpg](https://github.com/aa2362339/atom2.0-3d-printer/blob/main/PI-IMAGE.jpg)
+
+
 ![image](https://github.com/aa2362339/atom2.0-3d-printer/blob/main/xloder.jpg)
