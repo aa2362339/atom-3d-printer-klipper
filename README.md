@@ -52,7 +52,8 @@ https://www.klipper3d.org/zh-Hant/Installation.html
 
 !!!!別刷錯韌體
 
-按照下圖方式配置
+將打印機主板連接電腦
+按照下圖方式
 ![image](https://github.com/aa2362339/atom2.0-3d-printer/blob/main/xloder.jpg)
 
 
