@@ -38,12 +38,10 @@ https://www.klipper3d.org/zh-Hant/Installation.html
 如果 打印機配置文件 頂部的註釋描述了將最終圖像“閃爍”到打印機控制板的自定義步驟，則按照這些步驟操作，然後繼續 配置OctoPrint。
 
 否則，通常使用以下步驟來“刷新”打印機控制板。首先，需要確定連接到微控制器的串口。運行以下命令：
+`ls /dev/serial/by-id/*`
+
 
 它應該報告類似以下的內容：
-ls /dev/serial/by-id/*
-
-
-
 /dev/serial/by-id/usb-1a86_USB2.0-Serial-if00-port0
 通常每一個印表機都有自己獨特的串列埠名，這個獨特串列埠名將會在刷寫微處理器時用到。在上述輸出中可能有多行。如果是這樣的話選擇與微控制器相應的
 
