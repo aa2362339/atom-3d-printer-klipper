@@ -69,3 +69,5 @@ https://www.klipper3d.org/zh-Hant/Config_Reference.html
 原廠 CURA 在開始印前執行的幾行GCOD造成超出邊界
 我改成以下設定
 ![image](https://github.com/aa2362339/atom2.0-3d-printer/blob/main/CURA_SET.jpg)
+
+有那裡寫錯提醒我一下
