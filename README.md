@@ -65,7 +65,7 @@ https://www.klipper3d.org/zh-Hant/Installation.html
 開啟網頁端
 在瀏覽器輸入ip
 配置print_config 參數跟印表機相關設置
-可以參考我的print_config.txt
+可以參考我的print_config.txt 驅動使用tmc2225
 與官網
 https://www.klipper3d.org/zh-Hant/Config_Reference.html
 
