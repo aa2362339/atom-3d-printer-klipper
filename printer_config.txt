@@ -100,7 +100,7 @@ mesh_origin: 0,0
 round_probe_count: 5
 
 [probe]
-pin: !PD3
+pin: PD3
 z_offset: 0
 samples: 3
 #x_offset: 0
